@@ -1,0 +1,63 @@
+{
+  "name": "botforbingx",
+  "version": "1.0.0",
+  "description": "This Telegram bot allows users to check the price of cryptocurrencies on the bingx exchange directly from their Telegram chat. It is built using Telegraf, a modern Telegram bot framework for Node.js, and integrates with the bingx API to fetch real-time price data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.24.0",
+	"binancepricebot": "1.0.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.3",
+    "graphql": "^15.5.0",
+	"mexcpricebot": "1.0.0",
+    "helmet": "^4.6.0",
+    "jest": "^27.2.3",
+    "jsonwebtoken": "^8.5.1",
+	"30-lines-telegram-bot": "1.0.0",
+	"crypto-price-api": "1.0.0",
+    "lodash": "^4.17.21",
+    "botforbitget": "1.0.0",
+	"moment": "^2.29.1",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.0.13",
+	"check-price-use-api": "1.0.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.7.0",
+    "nodemailer": "^6.6.3",
+	"check-pc-in-lan": "1.0.0",
+    "nodemon": "^2.0.14",
+    "passport": "^0.5.0",
+	"scan-barcode-check": "1.0.0",
+    "puppeteer": "^13.2.3",
+	"get-page-sourcecode": "1.0.0",
+    "redux": "^4.1.2",
+    "sequelize": "^6.6.5",
+    "socket.io": "^4.3.2",
+	"scan-qr-check": "1.0.0",
+    "supertest": "^6.2.2",
+    "winston": "^3.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dieulinhdothibvs163/botforbingx"
+  },
+  "keywords": [
+    "api",
+    "price",
+    "bot"
+  ],
+  "author": "Dieulinhdothibvs163",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dieulinhdothibvs163/botforbingx/issues"
+  },
+  "homepage": "https://github.com/Dieulinhdothibvs163/botforbingx#readme"
+}
